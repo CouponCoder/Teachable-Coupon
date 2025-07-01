@@ -71,15 +71,36 @@ Here’s a quick look at Teachable’s latest pricing—before and after you app
 | Growth   Plan  | $199    | $159   | $143.10      | 28%     |
 | Advanced Plan   | $599    | $499   | $449.10      | 25%     |
 
-**Example:** Growth plan with annual + MAGIC10 = **$1,717.20/year** (saving $190.80)
+**Example:** 
+- Pick the Growth plan on annual billing: $159/month → $143.10/month with MAGIC10.
+- That’s $1,908/year → $1,717.20/year.
+- Total savings? $190.80/year—plus the annual plan already saves you $480 over monthly pricing!
 
 [💸 Calculate Your Savings](https://affinco.com/go/teachable)
 
-## Pro Tips
-- Combine `MAGIC10` with annual billing
-- Join Challenge Offer for extra 20% OFF
+## Teachable Free Trial & Refund Policy
+
+Not ready to commit? Teachable has your back:
+
+- 7-Day or 14-Day Free Trial: Try any paid plan risk-free. Some offers don’t even require a credit card.
+- 30-Day Money-Back Guarantee: If Teachable isn’t for you, just request a refund within 30 days—no questions asked
+
+This means you can test drive all the premium features, build your first course, and see if students love it—without risking a cent.
+
+## Teachable Freebies & Bonus Offers
+
+- Free Training Webinars: Attend a Teachable webinar and sometimes score extra discounts or exclusive bonuses at the end.
+- Premium Course Creation Bundle: Occasionally, Teachable throws in extra resources or access to masterclasses worth hundreds (sometimes thousands) of dollars—keep an eye out for these limited-time perks
+- Live Creator Summits: Sign up during special events for bonus consulting, extra months free, or additional discounts.
+
+## Pro Tips for Maximizing Your Teachable Savings
+
+- Combine MAGIC10 with annual billing—this is where the real magic happens (pun intended).
+- Join the Challenge Offer for up to 20% OFF and extra bonuses.
+- Start with the free trial to explore all features before committing.
+- Upgrade during major sales (like Black Friday) for even deeper discounts—sometimes up to 50% OF
+- Monitor Teachable’s newsletter for flash sales and exclusive deals.
 - [Start with free trial](https://affinco.com/go/teachable)
-- Watch for Black Friday deals
 
 ## FAQ
 ❓ **Code not working?**  
