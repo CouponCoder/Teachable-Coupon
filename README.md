@@ -1,4 +1,4 @@
-# Teachable Coupon Guide 🎟️
+# Teachable Coupon 🎟️
 
 [![Teachable Coupon](https://res.cloudinary.com/dav29ivcg/image/upload/v1751369922/Teachable_coupon_s1d9d8.png)](https://affinco.com/go/teachable)
 
@@ -53,6 +53,9 @@ What’s the Challenge? Join Teachable’s Launch Accelerator Challenge as a new
 
 ## How to Claim Your Teachable Coupon ?
 1. **Go to Teachable’s Pricing Page:** [Click “Start Free Trial” on your chosen plan.](https://affinco.com/go/teachable)
+
+[![Teachable Coupon](https://res.cloudinary.com/dav29ivcg/image/upload/v1751369922/Teachable-Pricing_utdbom.png)](https://affinco.com/go/teachable)
+
 2. **Create Your Account:** Enter your details—no need to memorize another password (yet)."
 3. **Select Annual Billing:** For the biggest discount, switch to annual billing before you pay.
 4. **Enter the Coupon Code:** On the checkout page, look for the coupon box. Type [`MAGIC10`](https://affinco.com/go/teachable) and hit apply.
