@@ -1,6 +1,6 @@
 # Teachable Coupon Guide 🎟️
 
-[![Teachable Coupon](https://res.cloudinary.com/dav29ivcg/image/upload/v1751369922/Teachable_coupon_s1d9d8.png)(https://affinco.com/go/teachable)
+[![Teachable Coupon](https://res.cloudinary.com/dav29ivcg/image/upload/v1751369922/Teachable_coupon_s1d9d8.png)](https://affinco.com/go/teachable)
 
 What if your next big course launch could cost less than your last pizza party? Get up to 40% OFF Teachable with the exclusive coupon code MAGIC10, stack it with their annual discount, and snag an extra 20% off with their Launch Challenge Offer! 
 
